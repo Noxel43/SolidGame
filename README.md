@@ -1,7 +1,7 @@
 # SolidGame (Working Title): Easy Physical Media for your Games.
-Hi, I'm George and although I have never used physical media for games, I've craved it. My goal for this project is to create an easy way for anyone to make phyisical media for their games.
-**Current Stage:** Finished the prototype for the floppy disk 3d model
-**Next step:** Print and test the floppy disk prototype with NFC stickers
+Hi, I'm George and although I have never used physical media for games, I've craved it. My goal for this project is to create an easy way for anyone to make phyisical media for their games.  
+**Current Stage:** Finished the prototype for the floppy disk 3d model  
+**Next step:** Print and test the floppy disk prototype with NFC stickers  
 
 # Roadmap:
 | Media types | Progress |
