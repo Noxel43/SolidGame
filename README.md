@@ -24,7 +24,7 @@ Hi, I'm George and although I have never used physical media for games, I've cra
 - Various media types, expect floppy disks, cassetes, NES cartridges and I'm sure I'll come up with something else.
 - Either NFC or physical data/pogo pins to detect
 - Smart Home software config to launch games\*
-- Easy designing software
+- Easy designing software  
 \* Havn't decided what yet, however it would be easy to use any smart home software
 
 # Attributions
