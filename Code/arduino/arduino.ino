@@ -9,7 +9,7 @@ MFRC522::MIFARE_Key key;
 
 void setup () {
     Serial.begin(9600);
-    SPI/begin();
+    SPI.begin();
     mfrc522.PCD_Init();
 }
 
@@ -26,4 +26,6 @@ void loop() {
       }
     }
 }
+Serial.write('\n');
+mfrc522.PICC_HaltA();
 }
