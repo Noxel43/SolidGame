@@ -1,9 +1,8 @@
-import serial
-import time
+void setup() {
+    Serial.begin(9600);
+}
 
-port = "COM7"
-
-ser = serial.Serial(port, 9600, timeout=1)
-time.sleep(2)
-
-ser.write(b"Hello\n")
+void loop() {
+    Serial.println("Hi");
+    delay(1000);
+}
