@@ -2,7 +2,6 @@ import os
 import serial
 import time
 
-appID = str("")
 port = "COM7"
 
 ser = serial.Serial(port, 9600, timeout=1)
