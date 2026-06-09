@@ -1,6 +1,6 @@
 # SolidGame (Working Title): Easy Physical Media for your Games.
 Hi, I'm George and although I have never used physical media for games, I've craved it. My goal for this project is to create an easy way for anyone to make phyisical media for their games.  
-**Current Stage:** Finished the prototype for the floppy disk 3d model  
+**Current Stage:** Finished the prototype for the floppy disk 3d model.  
 **Next step:** Print and test the floppy disk prototype with NFC stickers  
 
 # About / Specifications
@@ -10,7 +10,7 @@ Likely all of these will be using NFC (at least to start), so you will need the 
 - Arduino or other microcontroller (I am prototyping with Leonardo, however will switch to smaller ESP or custom PCB)
 
 You will need basic electronics knowledge, likely no programming you would need to do.  
-In terms of software, I am currently prototyping using [Playnite](https://playnite.link/), an open source game launcher + a listening python script, however I am considering making my own simple software for ease, and you could use basically anything. The main thing this project is is the 3d models and art, as any software can really be used.
+~~In terms of software, I am currently prototyping using [Playnite](https://playnite.link/), an open source game launcher + a listening python script, however I am considering making my own simple software for ease,~~ **UPDATE: I am using just a python script and currently the nfc tags store the steam AppID, which then launches the game. I am working on getting it to work with any launcher** and you could use basically anything. The main thing this project is is the 3d models and art, as any software can really be used.
 
 # Roadmap:
 | Media types | Progress |
